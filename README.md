@@ -5,7 +5,7 @@ My tinkerings with Algorithims utilizing Python and C#.
 
 <details>
 	<summary>Selection Sort</summary>
-	<p>Functions to sort elements in an array in ascending & decending order</p>
+	<p>Functions to sort array elements in ascending & decending order</p>
 </details>
 
 #### References: ####
