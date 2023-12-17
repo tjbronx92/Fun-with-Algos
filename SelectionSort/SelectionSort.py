@@ -18,6 +18,7 @@ def findLargest(arr):
             largestIndex = i
     return largestIndex
 
+'''Selection Sort Functions'''
 def selectionSortAsc(arr):
     newArr = []
     for i in range(len(arr)):
