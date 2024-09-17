@@ -19,5 +19,6 @@
 - Selection Sort
 
 ### O(n!)
+- Factoral time
 - Traveling Salesperson
 - SLOW!
