@@ -2,7 +2,7 @@
 
 - Sorted FASTEST to SLOWEST
 
-### O(log n)
+### O(log<sub>2</sub> n)
 - Log Time
 - Binary Search
 
