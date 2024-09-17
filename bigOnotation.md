@@ -1,5 +1,7 @@
 # Big O Notation
 
+- Sorterd FASTEST to SLOWEST
+
 ### O(log n)
 - Log Time
 - Binary Search
