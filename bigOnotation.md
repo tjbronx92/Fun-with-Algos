@@ -1,5 +1,4 @@
 # Big O Notation
----
 
 ### O(log n)
 - Log Time
