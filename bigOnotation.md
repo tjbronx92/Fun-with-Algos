@@ -1,6 +1,6 @@
 # Big O Notation
 
-- Sorterd FASTEST to SLOWEST
+- Sorted FASTEST to SLOWEST
 
 ### O(log n)
 - Log Time
